@@ -1,2 +1,2 @@
-# Simon-Game-By-13
+# 13
 Video game
